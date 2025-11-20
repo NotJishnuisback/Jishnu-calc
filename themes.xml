@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JishnuCalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/bg_secondary</item>
+        <item name="colorPrimaryVariant">@color/bg_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Status bar / navigation colors -->
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+
+        <!-- Default window background -->
+        <item name="android:windowBackground">@color/bg_primary</item>
+    </style>
+
+</resources>
